@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ST10484194.github.io/Matsila-Foundation-Website/sitemap.xml
+Sitemap: https://github.com/ST10484194/Matsila-Foundation-Website/blob/main/sitemap.xml
+
